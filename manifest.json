@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "StoryGraph Fast Search",
-  "description": "Right click to search your selected text on StoryGraph.",
+  "name": "Search Books on TheStoryGraph",
+  "description": "Right click to search your selected text on TheStoryGraph.",
   "version": "1.0",
   "permissions": ["contextMenus"],
   "background": {

@@ -10,7 +10,7 @@ function openStoryGraph(info) {
 }
 
 chrome.contextMenus.create({
-  title: "Search: %s",
+  title: "Search on TheStoryGraph",
   contexts: ["selection"],
   id: CONTEXT_MENU_ID,
 });
